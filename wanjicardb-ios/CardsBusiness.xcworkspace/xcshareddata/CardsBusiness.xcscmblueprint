@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A60862D574CC573620FD38206F4A1A3588E0352D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670" : 0,
+    "A60862D574CC573620FD38206F4A1A3588E0352D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E0FE9463-8A11-4C38-95D6-1F33711ACC84",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670" : "wanjicardb-ios\/CardsBusiness\/Utilities\/Security\/",
+    "A60862D574CC573620FD38206F4A1A3588E0352D" : "wanjicardb-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CardsBusiness",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CardsBusiness.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.20.0.15\/project\/cn\/ChiefSign",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.1.61:ios-development\/wanjicardb-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A60862D574CC573620FD38206F4A1A3588E0352D"
+    }
+  ]
+}

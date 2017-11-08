@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14C109" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Branch" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="branchID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="businessTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cover" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distanceStr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalSale" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Privilege" syncable="YES">
+        <attribute name="createDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="detail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="privilegeId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Product" syncable="YES">
+        <attribute name="cover" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="faceValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saleNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="salePrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Privilege" positionX="-63" positionY="-18" width="128" height="120"/>
+        <element name="Product" positionX="-54" positionY="27" width="128" height="150"/>
+        <element name="Branch" positionX="-36" positionY="72" width="128" height="225"/>
+    </elements>
+</model>

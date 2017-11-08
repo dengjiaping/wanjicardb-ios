@@ -1,0 +1,44 @@
+//
+//  PrefixHeader.pch
+//  CardsBusiness
+//
+//  Created by Lynn on 15/11/3.
+//  Copyright © 2015年 Lynn. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "CBBaseViewController.h"
+
+//#import "WJBlockDefine.h"
+#import "WJColorDefine.h"
+#import "WJConstKey.h"
+#import "WJEnumType.h"
+#import "WJFont.h"
+#import "WJJudgementDefine.h"
+#import "WJShareSDKAppKeyHeader.h"
+#import "WJUtilityMethod.h"
+#import "UIHelper.h"
+#import "WJDocumentHelper.h"
+
+#import "UIView+AEBHandyAutoLayout.h"
+#import "UIView+LayoutMethods.h"
+
+#import "AppDelegate.h"
+
+#import "Common.h"
+#import <libextobjc/extobjc.h>
+#import "UIViewAdditions.h"
+#import "RESTClient+CBFactory.h"
+#import "RESTClient.h"
+#import "EnumManager.h"
+#import "NSStringAdditions.h"
+#import "CBPassport.h"
+#import "MBProgressHUD.h"
+#import "EventCenter.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "XTTextView.h"
+#import "TKAlertCenter.h"
+
+#endif /* PrefixHeader_pch */
